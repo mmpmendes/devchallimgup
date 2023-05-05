@@ -1,0 +1,104 @@
+.text {
+    font-family: 'Poppins';
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 500;
+    letter-spacing: -0.035em;
+}
+
+#title {
+    font-size: 18px;
+    line-height: 27px;
+    color: #4F4F4F;
+}
+
+#description {
+    font-style: normal;
+    font-size: 10px;
+    line-height: 15px;
+    color: #828282;
+}
+
+#box {
+    box-sizing: border-box;
+    background: #F6F8FB;
+    border: 1px dashed #97BEF4;
+    border-radius: 12px;
+    width: 35%;
+    margin: auto;
+    height: 250px;
+}
+
+
+#theimage {
+    background: #BDBDBD;
+    width: 125px;
+}
+
+#dragtext {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+
+    letter-spacing: -0.035em;
+
+    /* Gray 4 */
+
+    color: #BDBDBD;
+}
+
+div.centered {
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    /* width: 90%; */
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.centered.novertical {
+    display: block;
+}
+
+.shaddedtext {
+    width: 166.01px;
+    height: 17.99px;
+    margin: auto;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: -0.035em;
+
+    /* Gray 4 */
+
+    color: #BDBDBD;
+}
+
+
+button {
+    width: 101px;
+    height: 31.98px;
+    /* Blue 1 */
+    background: #2F80ED;
+    border-radius: 8px;
+}
+
+button>p {
+    margin: auto;
+    font-family: 'Noto Sans';
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    align-items: center;
+    color: #FFFFFF;
+}
