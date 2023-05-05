@@ -85,15 +85,18 @@ div.centered.novertical {
 }
 
 
-button {
+#btnfile {
+    display: block;
     width: 101px;
     height: 31.98px;
     /* Blue 1 */
     background: #2F80ED;
     border-radius: 8px;
+    text-align: center;
+    align-items: center;
 }
 
-button>p {
+#btnfile>p {
     margin: auto;
     font-family: 'Noto Sans';
     font-size: 12px;

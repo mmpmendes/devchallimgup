@@ -997,23 +997,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\catarina\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\MM890218\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\webapitest\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\repo\\devchall\\devchallimgup\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\dev\\webapitest\\TodoApi\\TodoApi.csproj",
-      "packagesPath": "C:\\Users\\catarina\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\webapitest\\TodoApi\\obj\\",
+      "projectPath": "C:\\repo\\devchall\\devchallimgup\\TodoApi\\TodoApi.csproj",
+      "packagesPath": "C:\\Users\\MM890218\\.nuget\\packages\\",
+      "outputPath": "C:\\repo\\devchall\\devchallimgup\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\catarina\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\MM890218\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
